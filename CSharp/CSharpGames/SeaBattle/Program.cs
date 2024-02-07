@@ -4,6 +4,7 @@ internal class Program
 {
     private static void Main(string[] args)
     {
+        // comment lesson 5
         Console.OutputEncoding = Encoding.UTF8;
         Random rnd = new Random();
 
