@@ -5,7 +5,11 @@ VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeaBattle", "SeaBattle\SeaBattle.csproj", "{0EE5FE63-F759-4D9C-A56C-6ACD39B59664}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{952E775F-CD0F-4F23-905F-3270C706EA4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{952E775F-CD0F-4F23-905F-3270C706EA4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Covariance", "Covariance\Covariance.csproj", "{B3B1FD78-1778-417A-81F5-FD305B2CF5FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contravariant", "Contravariant\Contravariant.csproj", "{2AB80223-F21B-4EB2-B7B9-B707B27BE238}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{952E775F-CD0F-4F23-905F-3270C706EA4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{952E775F-CD0F-4F23-905F-3270C706EA4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{952E775F-CD0F-4F23-905F-3270C706EA4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3B1FD78-1778-417A-81F5-FD305B2CF5FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3B1FD78-1778-417A-81F5-FD305B2CF5FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3B1FD78-1778-417A-81F5-FD305B2CF5FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3B1FD78-1778-417A-81F5-FD305B2CF5FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AB80223-F21B-4EB2-B7B9-B707B27BE238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AB80223-F21B-4EB2-B7B9-B707B27BE238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AB80223-F21B-4EB2-B7B9-B707B27BE238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AB80223-F21B-4EB2-B7B9-B707B27BE238}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
