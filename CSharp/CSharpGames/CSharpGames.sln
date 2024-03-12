@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionsWithWhere", "Col
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericWithDefault", "GenericWithDefault\GenericWithDefault.csproj", "{67B7DBC1-07FC-4D9C-9AC0-9FA7EBAAD355}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEquatableExample", "IEquatableExample\IEquatableExample.csproj", "{82D3A8E5-F1E7-4231-BE8E-0B46C21BD838}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{67B7DBC1-07FC-4D9C-9AC0-9FA7EBAAD355}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67B7DBC1-07FC-4D9C-9AC0-9FA7EBAAD355}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67B7DBC1-07FC-4D9C-9AC0-9FA7EBAAD355}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82D3A8E5-F1E7-4231-BE8E-0B46C21BD838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82D3A8E5-F1E7-4231-BE8E-0B46C21BD838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82D3A8E5-F1E7-4231-BE8E-0B46C21BD838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82D3A8E5-F1E7-4231-BE8E-0B46C21BD838}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
