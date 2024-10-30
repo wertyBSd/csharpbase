@@ -11,13 +11,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Covariance", "Covariance\Co
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contravariant", "Contravariant\Contravariant.csproj", "{2AB80223-F21B-4EB2-B7B9-B707B27BE238}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovContr", "CovContr\CovContr.csproj", "{47BF58F4-1C85-42A5-909C-A4058040D592}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CovContr", "CovContr\CovContr.csproj", "{47BF58F4-1C85-42A5-909C-A4058040D592}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionsWithWhere", "CollectionsWithWhere\CollectionsWithWhere.csproj", "{96C1BC39-714C-43AD-901E-E3BEF82AFB36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CollectionsWithWhere", "CollectionsWithWhere\CollectionsWithWhere.csproj", "{96C1BC39-714C-43AD-901E-E3BEF82AFB36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericWithDefault", "GenericWithDefault\GenericWithDefault.csproj", "{67B7DBC1-07FC-4D9C-9AC0-9FA7EBAAD355}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericWithDefault", "GenericWithDefault\GenericWithDefault.csproj", "{67B7DBC1-07FC-4D9C-9AC0-9FA7EBAAD355}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEquatableExample", "IEquatableExample\IEquatableExample.csproj", "{82D3A8E5-F1E7-4231-BE8E-0B46C21BD838}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IEquatableExample", "IEquatableExample\IEquatableExample.csproj", "{82D3A8E5-F1E7-4231-BE8E-0B46C21BD838}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tetris", "Tetris\Tetris.csproj", "{E2613589-C857-498D-BA5A-697A78E67B1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snake", "Snake\Snake.csproj", "{7A9F22DA-9680-4FAD-A978-3C5D9C24E194}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arkonoid", "Arkonoid\Arkonoid.csproj", "{807C3381-E1D8-4E57-AF01-B331E6C69958}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +63,18 @@ Global
 		{82D3A8E5-F1E7-4231-BE8E-0B46C21BD838}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82D3A8E5-F1E7-4231-BE8E-0B46C21BD838}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82D3A8E5-F1E7-4231-BE8E-0B46C21BD838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2613589-C857-498D-BA5A-697A78E67B1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2613589-C857-498D-BA5A-697A78E67B1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2613589-C857-498D-BA5A-697A78E67B1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2613589-C857-498D-BA5A-697A78E67B1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A9F22DA-9680-4FAD-A978-3C5D9C24E194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A9F22DA-9680-4FAD-A978-3C5D9C24E194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A9F22DA-9680-4FAD-A978-3C5D9C24E194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A9F22DA-9680-4FAD-A978-3C5D9C24E194}.Release|Any CPU.Build.0 = Release|Any CPU
+		{807C3381-E1D8-4E57-AF01-B331E6C69958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{807C3381-E1D8-4E57-AF01-B331E6C69958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{807C3381-E1D8-4E57-AF01-B331E6C69958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{807C3381-E1D8-4E57-AF01-B331E6C69958}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
